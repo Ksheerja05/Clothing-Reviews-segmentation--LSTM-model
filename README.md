@@ -20,7 +20,7 @@ This project implements a sentiment analysis model for classifying customer revi
 <li>README.md: Project README file.</li></ul>
 
 ## Conclusion:
-The model is giving respectable accuracy but as we can see it is overfitting. To reduce the overfitting we can take the following measures:
+The model is giving respectable accuracy (78.85%) but as we can see it is overfitting. To reduce the overfitting we can take the following measures:
 1. Increase the training data.
 2. Reduce the complexity of the model
 3. Add a dropout layer.
